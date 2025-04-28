@@ -76,7 +76,6 @@ Hit:1 http://deb.debian.org/debian stable InRelease
 GNU bash, version 5.2.21(1)-release
 ```
 
-So cool! 😄
 
 ## 🌈 Why It’s Fun
 
