@@ -1,4 +1,4 @@
-# 🌟 DistroFusion: Mix Arch & Debian Together! 😎
+# 🌟 DistroFusion: Mix Arch & Debian Together!
 
 Hi! **DistroFusion** is a fun tool that puts **Arch Linux** and **Debian** into one system. 🖥️ You can use `pacman` and `apt` at the same time! It’s super easy to set up on Arch Linux. 🚀
 
