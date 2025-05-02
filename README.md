@@ -1,35 +1,35 @@
-# 🌟 DistroFusion: Mix Arch & Debian Together!
+# 🌟 DistroFusion: mix arch and debian together
 
-Hi! **DistroFusion** is a fun tool that puts **Arch Linux** and **Debian** into one system. 🖥️ You can use `pacman` and `apt` at the same time! It’s super easy to set up on Arch Linux. 🚀
+Hello dear linux user **DistroFusion** is a fun tool that puts **Arch Linux** and **Debian** into one system. 🖥️ You can use `pacman` and `apt` at the same time! It is super easy to set up on Arch Linux. 🚀
 
-## ❓ What’s DistroFusion?
+## ❓ What is DistroFusion?
 
 DistroFusion makes a special place where:
 - **Arch Linux** gives you fast, new stuff.
-- **Debian** gives you stable, trusty tools.
+- **Debian** gives you stable, trusty stable tools.
 - They work together like magic! 🪄
 
-It’s like mixing ice cream and cookies — yum! 🍦🍪
+It is like mixing ice cream and cookies — yum! 🍦🍪
 
-## 🛠️ How to Set It Up
+## 🛠️ How install it
 
-Here’s how to get DistroFusion on **Arch Linux**. It’s just a few steps!
+Here is how to get DistroFusion on **Arch Linux**. It is just a few steps!
 
-### 1. Get the Installer
-Open your terminal (the black screen) and type:
+### 1. Get the installer
+Open your terminal and type:
 
 ```bash
 wget -O install.sh https://raw.githubusercontent.com/klovych/distrofusion/main/install.sh
 ```
 
-### 2. Make It Ready
+### 2. Make it ready
 Tell the computer it’s okay to run the script:
 
 ```bash
 chmod +x install.sh
 ```
 
-### 3. Start the Installer
+### 3. Start the installer
 Run it with sudo (like a boss):
 
 ```bash
@@ -52,7 +52,7 @@ Start the mixed system:
 sudo ./distrofusion.py run
 ```
 
-Now you’re in! Try these:
+Now you are in! Try these:
 
 ```bash
 /bin/bash --version  # Check Arch’s bash
@@ -62,7 +62,7 @@ sudo apt install fastfetch  # Add a cool tool
 
 To leave, type `exit` or press `Ctrl+D`.
 
-## 🖼️ What You’ll See
+## 🖼️ What you will see
 
 Your terminal will look like this:
 
@@ -77,20 +77,20 @@ GNU bash, version 5.2.21(1)-release
 ```
 
 
-## 🌈 Why It’s Fun
+## 🌈 Why It is fun
 
 - **Two Systems in One**: Arch’s speed + Debian’s calm.
 - **Easy to Use**: Just one script!
 - **Learn Stuff**: Play with Linux tricks.
 - **For Geeks**: Try new things!
 
-## ✅ What You Need
+## ✅ What you need
 
 - **Arch Linux** (won’t work on others yet)
 - Sudo powers
 - Internet
 
-## 🐞 Got a Problem?
+## 🐞 Got a problem?
 
 - **Something broke?** Tell me on [GitHub Issues](https://github.com/klovych/distrofusion/issues).
 - **Confused?** Ask on GitHub.
